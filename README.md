@@ -1,1 +1,1 @@
-This is a sample DITA project created by Kevin Lewis at Virginia Tech 
+This is a sample HDITA project created by Carlos Evia and Kevin Lewis at Virginia Tech 
