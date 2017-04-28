@@ -1,6 +1,6 @@
 # Sample DITA project
 
-DITA topic collection for a fictional product.
+DITA topic collection for a fictional product. This repository was created for Virginia Tech's ENGL 3814: Creating User Documentation, but any DITA aficionados can use it following the license at the bottom of this page. 
 
 ## Credits:
 - Written by Kevin Lewis
